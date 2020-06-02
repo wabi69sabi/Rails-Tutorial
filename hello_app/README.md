@@ -4,7 +4,7 @@ This course is taught using the cloud9 development environment, so getting start
 
 Our first app in this course is a classic display of the string 'Hello World!' in a browser window.
 
-* for this rails app we are using Ruby 2.6.6
+* For this rails app we are using Ruby 2.6.6
 
 * Our system dependencies should be mostly covered by cloud9, with the additional installation of yarn and the webpacker in our rails app
 
