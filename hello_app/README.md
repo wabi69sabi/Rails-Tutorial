@@ -12,6 +12,6 @@ Our first app in this course is a classic display of the string 'Hello World!' i
 
 * No database is needed in this example
 
-* There are also no tests to be run with this basic boilerplate, as this serves more like a proof of concept
+* There are also no tests to be run with this basic boilerplate, as this serves just like a proof of concept
 
 * Deployment can be done on heroku, which will be discussed in the course
